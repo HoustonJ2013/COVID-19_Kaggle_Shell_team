@@ -8,7 +8,7 @@
 (4) Risk factor, key word identification, summarize case distribution.  
 (5) Use reference to group articles and identify closely related "community".  
 
-Task:
+Task:  
 (1) Jenny - identify risk factor - related words (read paper, online translator, find synonyms), or medical tools  
 (2) Jingbo - investigate elastic search.  
 (3) Yinsen - graphic analysis. paper reference  
