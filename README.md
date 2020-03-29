@@ -15,9 +15,9 @@ Task:
 (4) Tina - NLP  
 
 ### 2. 3/29/2020
-Proposed strategy:
-(1) reference-based clustering map. Identify each cluster. "topic" modeling. - Yinsen
-(2) elastic search, identify papers by key words. Provide pickle file with "selected paragraph". - Jingbo
-(3) key words related paper, table statistics summary. - Jenny
-(4) NLP-based statistics, Gensim. - Tina
-NER return location of key words. BM25. (Gensim,cTAKES, MetaMap)
+Proposed strategy:  
+(1) reference-based clustering map. Identify each cluster. "topic" modeling. - Yinsen  
+(2) elastic search, identify papers by key words. Provide pickle file with "selected paragraph". - Jingbo  
+(3) key words related paper, table statistics summary. - Jenny  
+(4) NLP-based statistics, Gensim. - Tina  
+NER return location of key words. BM25. (Gensim,cTAKES, MetaMap)  
