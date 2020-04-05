@@ -21,3 +21,16 @@ Proposed strategy:
 (3) key words related paper, table statistics summary. - Jenny  
 (4) NLP-based statistics, Gensim. - Tina  
 NER return location of key words. BM25. (Gensim,cTAKES, MetaMap)  
+
+
+### 3. 4/4/2020
+(1) Jenny introduced her notebook results, with submission draft format  
+(2) Jingbo introduced his code udpates: update database, update searching query (support multiple words searching)  
+(3) Tina introduced her her code about BM25, nltk. (available in github?)  
+(4) Yinsen introduced the software used to visualize community network. Pubmed ID? jason file?
+
+Summary:  
+(0) Yinsen, save community number out for paper. - visualization.  
+(1) combine elastic search results with Yinsen's calculated community. => top papers  
+(2) For "selected papers", keep searching "paragraph" from top papers.  
+
