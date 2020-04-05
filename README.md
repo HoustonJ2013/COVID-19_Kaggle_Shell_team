@@ -29,8 +29,15 @@ NER return location of key words. BM25. (Gensim,cTAKES, MetaMap)
 (3) Tina introduced her her code about BM25, nltk. (available in github?)  
 (4) Yinsen introduced the software used to visualize community network. Pubmed ID? jason file?
 
-Summary:  
-(0) Yinsen, save community number out for paper. - visualization.  
-(1) combine elastic search results with Yinsen's calculated community. => top papers  
-(2) For "selected papers", keep searching "paragraph" from top papers.  
+Proposed workflow:
+1. Elastic search + pre-calculated community belongings.   
+2. With given "paper_id", provide related sentences.  
+
+(0) Yinsen, save community number out for paper. - visualization.   
+(1) combine elastic search results with Yinsen's calculated community. => top papers   
+(2) For "selected papers", keep searching "paragraph" from top papers.   
+  
+Task: (1) input question, output keywords - Tina  
+      (2) input keywords + one paper, output top three sentences  - jingbo  
+      (3) interface. Input question, output sentences. - Jenny  
 
