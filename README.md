@@ -21,3 +21,25 @@ Proposed strategy:
 (3) key words related paper, table statistics summary. - Jenny  
 (4) NLP-based statistics, Gensim. - Tina  
 NER return location of key words. BM25. (Gensim,cTAKES, MetaMap)  
+
+
+
+
+
+############### Elastic Search Setup #######################
+
+1. Have a sever on the cloud with minimum mem 16 GB, and 128 GB disk space. The server has to be have static IP address, and docker, python isntalled
+
+2. open a terminal on the server, and run the command
+```
+source docker_elastic_setup.rsc
+```
+Now the server is set up 
+
+3. Clone this repo to the cloud server, modify the folder path to the json files in the script, and run the script. Note install whatever package missing on the cloud server (ideally we should us docker for more serious deployment)
+```
+python elasticsearch_helpers.py
+```
+
+4. Please refer to 0408_elasticsearch_Query_example.ipynb for keywords and keyphrases query
+
