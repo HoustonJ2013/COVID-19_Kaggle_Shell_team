@@ -52,7 +52,7 @@ source docker_elastic_setup.rsc
 ```
 Now the server is set up 
 
-3. Clone this repo to the cloud server, modify the folder path to the json files in the script, and run the script. Note install whatever package missing on the cloud server (ideally we should us docker for more serious deployment)
+3. Clone this repo to the cloud server, modify the folder path to the json files in the script, and run the script. Note install whatever package missing on the cloud server (ideally we should use docker for deployment)
 ```
 python elasticsearch_helpers.py
 ```
