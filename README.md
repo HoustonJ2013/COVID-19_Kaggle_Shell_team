@@ -58,3 +58,11 @@ python elasticsearch_helpers.py
 ```
 
 4. Please refer to 0408_elasticsearch_Query_example.ipynb for keywords and keyphrases query
+
+
+### 4/11/2020
+
+1. Tina Zhao, BM25, given input sentences, rank papers and provide ranking of each paper. (abstract-based)
+2. Jenny Yang, Topic modeling = images. Tables (risk factor).
+3. Jingbo Liu, elastic search. (need back up)
+4. Yinsen Miao, community-map, reference-based. arbitary pick number of clusters.
